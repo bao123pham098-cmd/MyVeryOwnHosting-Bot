@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
-    "version": "",
+    "ip": "SMP_SPVP_COM.aternos.me:31120",
+    "port": 31120,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
